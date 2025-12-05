@@ -1,0 +1,4227 @@
+[
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user Vc deve ser louca, defendi o INPE na nossa conversa, ou vc é cega, disléxica, achei péssimo a exoneração feita hoje, tenho ciência do bom trabalho q o INPE faz, enfim, não vou perder meu tempo com vc, abraça o DataFolha aí, espere a virada do Haddad ou Ciro no segundo turno kkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user Vc só pensa no Coaf. Acorda alice! Acha mesmo que a PF está engessada somente numa linha de investigação? Achei que como jornalista, era mais esperta.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mais sonsa que a minha mãe só duas dela, ela fez eu postar foto dela no facebook e fez a kátia cega no comentário kkkkkkkkkkkkkkk q odio",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "que rica verga",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "teresinha e merda a mesma coisa odeio ela caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se alguém me contasse que a Sheherazade preocupada com o conforto emocional de bandido é a mulher que ficou famosa porque acha compreensível amarrar bandido no poste eu não acreditaria",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user Curioso, pq isso cai como uma luva para a doceira plagiadora que por conta do fracasso ta com medo de lançar o 5° album kkkkk https://t.co/dCXkfRwddx",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user petista odeia mulher bomita, inteligente e honesta.\nse for rica então, essas jornalistas  invejosas do pt se descabelam",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user @user vamos comprar óleo de peroba pra passar na cara dessa mulher.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user veteranas que eu me refiro sao artistas consagradas e icones como Madonna, Britney, Mariah, Avril, Xtina e etc... Ariana nao é novata mas ta longe de ser uma veterana igual as que citei",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Amante braba p mim é aquela que sustenta a bronca de comer marido alheio, que quando a fiel descobre e vai na direção, bota a cara mesmo sem medo e fala : \"Estou com seu marido mesmo e vê o que você pode fazer\". Não essas q é frouxa, nega até a morte, chora e ainda chama família!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user acho que essas \"cidadãs\" estão cantando algo sobre sambar na cara do brasil!😐",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user pqp,  da um chega pra la nessa mulher, que loucura",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga??????? uhum, amiga que fala mal quando vc não está, amiga q quando vc ta fraca dá prioridade p outras, amiga q se tu n sair pra beber ficam tempos sem se falar, amiga q se tu der mole te joga de bola....amiga assim quero distância, prefiro ficar sozinha com 0 de amizade. 😉",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O que ela faz com o corno não chega aos pés do que ela pede pro amante...\n#corno #namoradaputa #hotwife #esposasafada #cuckold https://t.co/f5Mpzzt85o",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user ela q não se respeita meu amigo, não há nada que eu possa fazer haha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "racional e corna pelo visto",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user si eu pego essas menina eu dou tanta ripada mano, vai ficar feia para de fofoca tmnc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user Aaaaaaaahahahahaahahahahahahahaha tá com medo, baranga?! Prepara que que vai dar polícia!!!! #CorreVerdevaldo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Então pq chama a mina de interesseira? Se não conhece não fala oq não sabe, porra.\nIsso deve ser medo né kkkkkkkk — KKKKKKKKKKKKKKK MAS É MESMOOOOOO https://t.co/AdKEQz9139",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "onde talarico quer fala de talaricagem, ond maconheiro se acha bandido, onde homofóbico come viado, onde piranha briga por homem dos outros, onde você faz A e o povo fala o abecedário todo, onde um tenta ser melhor q o outro sendo q ninguém é melhor q ninguém!!!!!!!!!!!!!!!!!!!!! https://t.co/BlS7H57uO5",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user paga de apaixonada no wpp e no tt é a brabona kkkkkkkkkkkkkkkk🤮",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "nem conto as vezes que fui assediada em uber",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user Fala um clube que corrompia tudo e todos, árbitros incluídos com putas, senhoras do sexo, isso mesmo... 😂😂😂",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a mnet boicota o loona e ainda vem PLAGIAR o conceito UNICO e NUNCA feito no kpop, mas vamos ter pena dessa cadelinha da mnet sem originalidade ne mores https://t.co/BqrpwMVJ6x",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user o que a mulher pensa quando tô com meu melhor amigo: deve tá rodeado de mulher\n\no que realmente acontece🤣: https://t.co…",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mas nem me diga q essa responsa eh minha\neu comi aquela vaca usando 2 camisinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user nasceu piranha e vai morrer piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "bateu apanha, quer pagar de fodona então aguenta as consequências.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a jen mostrando a linguinha af garota toxica do caralho me fazendo sofrer",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user já dizia minha amiga \n“eu posso erra na mega cena mas implicar com a puta errada nunca”",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user mais piriguete que uma nick só duas",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user depois mandas foto puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "falei q ia acordar cedo pra estudar e acordei agora meu deus uma vagabunda mesmo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "preparei um look mo piriguete pra hj e me faz esse frio",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "quenguinha do jatinho na cara... pqp eu em kkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "enquanto ouver lingua e dedo, não a puta que meta medo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "fumo dois balão pra ficar tega, ela fuma pra me dar buceta🎶🚩",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "99% vagabundo mas aquele um por cento n deixa eu vira puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "dudao- piranha q eu goxto",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "que piranha gostosa😍",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mulher faz igual e pior vsf kkkkkkk https://t.co/sjfbpa6kv9",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "e a bia que se perdeu no caminho com a biz branca dela e eu e a marcela fomos desesperadas atras, ficamos procurando ela no caminho achando q ela tinha sofrido algum acidente e a vagabunda tava na casa dela comendo espetinho VSFD MANO",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha dois amantes https://t.co/mbvaul5j0v",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user quando seu namorado é suavão, e vc é puta e bolada 👫❤ https://t.co/8jmkpwtpjh",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "penah de você gata kkkkk bai dar o cu que passa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amora : pq tem uma piranha no guarda roupa? e não tô falando de mim \neu: mas amiga eu tô na cama \n\né aquilo \ntem que assumir a piranhagem",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Isso mesmo. Chamem negros de neguim,  mandem todos tomar no cu, digam que só tem puta, e não esqueçam de falar das mocreias. Ah e tem que chamar todo mundo de analfabeto funcional com toxoplasmose.  A não ser os que acreditam em terra plana e pezao.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha dois amantes",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user vem com vontade, vem fude essa putinha 😈😍 https://t.co/1ns8qypugx",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "cê tá doido kkkkkk cadê o respeito cpt kkk mais puta é vc que não vem falar na nossa cara, piranhaaaaaaaaaaaaaa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu aí gay putinha aborteira rs",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user metendo na putinha que gosta de dar o cuzinho gostoso https://t.co/jxqmj6nnml",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user aproveita e manda assar a sua carne de piranha tbm kkkkkkkkkkkk te amo bjos",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "fiquei sabendo q vc só vai na faculdade pra ver macho, ridícula — só balbúrdia https://t.co/r5epkhyktu",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha aguenta três pronta pro serviço",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user cu eh igual bolo de aniversário, nós passa o dedo, se a dona não reclamar nós come.. kkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user me chama na dm que te faço de minha putinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Meto a 3a vez e vai saindo leite, continuo atė gozar de novo, gerente puta!\n@user @user @user @user @user @user @user @user @user @user @user @user @user @user @user @user https://t.co/DhY1cV4v19",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Another bitch properly folded.\n***(Mais uma puta devidamente arregaçada.)***\n@user @user @user @user @user @user @user @user @user @user @user @user @user @user @user @user https://t.co/gpsQY44Coa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user n posso nem demorar dois dias p responder q a pessoa já fica putinha eu em gnt tóxica",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "“gordinha” ah vá pro caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user já dei que você vai voltar arrastada pra casa kkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vrdd kkk to fora disso, bateção de cabeça deixo pra elas, eu quero é paz rss",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "acho tão feio mulher q surta por qualquer coisa, que sai pros lugares e fica emburrada atoa🤦🏻‍♀️",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mulher: oi quer ficar cmg?\n\nhomem: não\n\nmulher: ok\n\nhomem: oi quer ficar comigo?\n\nmulher: não\n\nhomem: ata eu n queria mesmo VC É MO PIRANHA TOMAR NO SEU CU ARROMBADA, EU NUNCA QUIS FICAR COM VC SÓ TAVA TE TESTANDO",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user mais uma mamadeira da lei rouanet, que ficou sem patrocínio do governo. se fosse boa artista, tava calada e trabalhando...",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user olha como vc fala cmg heim te deixo careca garota😂😂 https://t.co/avivup20hi",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o único momento em que eu me permito odiar mulheres",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "aborteira que faz textao",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "derruba minha conta big hit sua safada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O foda é essas mina de 16 a 17 que não se valoriza, acha que é bonito ficar dando pra vários, vai nessa bobinha quando você tiver com seus 22 25, ninguém vai querer assumir vcs pela fama que vocês tem no lugar aonde mora, msm que vcs sejam solteiras vamos se valorizar vcs ainda é",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu mc saed fui da um rolé com o amigo na comunidade chegando la ele me apresentou uma novinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user ta querendo pegar o bofe do outro vadia",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "marielle franco pode virar nome de avenida em caruaru https://t.co/eq8pn8cvfl https://t.co/iiz8iwwxak",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não podemos admitir!justiça absolve homem por estupro porque vítima estava bêbada no rs - 02/08/2019 - uol universa https://t.co/kacyurtcbw",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pode vimmmm o bande todo suas putinhas kkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user macho: futebol não é pra mulher\n\nfutebol feminino:  https://t.co/7gny0tbylb",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mulher de cabelo vermelho é o capeta em forma de gente pra levar a gente fazer merda. https://t.co/6t8qkdoiit",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user 3/8 12:35 : se ela n茫o fosse t茫o feia e vc t茫o bonita eu ia dizer que s茫o parecidas",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "n茫o aguento mais essas pragas falando que bp usa bots etc vsf v茫o sla lavar uma lou莽a, dar views pro fav de vcs, eu hein",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user chama ela pra fuder",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user calou , puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "adorava que a puta da maria vivas me respondesse 馃檭",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Whindersson merece se foder msm. Mlk deixa a mulher sair por ai se esfregando em outros caras e dps fica chateado por ser chamado de corno. Namorar feminista n d谩 bom fica a dica, ja cometi esse erro 3 vezes e smp deu merda.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user j谩 parou para pensar que at茅 puta ganha melhor que a gente?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user bebe mais piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Prefira usar preservativo pra n茫o dar uma vida de merda pro ser humano ou aborta , isso 茅 feio !! \nImagina se sua m茫e te aborta ? Voc锚 nem estaria aqui pra ta falando essas merdas ai . https://t.co/9ojwXf7H1J",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user se as dominicanas perderem 茅 s贸 pq ela se desconcentram tirando o shortinho do cu",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user ditadura militar da buceta da tua m茫e",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "novinha dando o c煤 por dinheiro ( aumente seu p锚nis 11 960736519 ) - https://t.co/cf0oxbldgm",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rodei tudo naquela pecu谩ria ontem e n茫o achei a vaca da elynne 馃槕",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user okay ela tem 9cm a mais que eu ent茫o eu quero 40kg agora",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A advogada Fl谩via Ferronato foi chamada de puta pelo presidente nacional da OAB, Felipe Santa Cruz!\n* Isso pode n茫o 茅 feministas, m铆dia raivosa e OAB? Todos caladinhos! #STFVergonhaNacional https://t.co/0ZrP3wCyoL",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putz , e ainda querem ter credibilidade? uma ex-bbb mano, ex-bbb !!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Foi cada vagabunda que tirou a minha paz que hoje eu olho e vejo o quanto eu perdi tempo. Me coloquei no meu lugar e deixei elas gritarem, 茅 aquele ditado, um lobo em sil锚ncio imp玫e mais respeito do que um cachorro latindo!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quais 5 qualidades a gatota que quiser namorar com vc tem que ter? 鈥� Simp谩tica, parceira, carinhosa, gosta de foder e n茫o ter mimimi kkkkkkkkk https://t.co/J2nhnhAJex",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user É de cair o cu da bunda \nPORRA velho \nEsses grupos e os femininos levam a empresa nas costas e eles inventam uma porra dessa \nPensa tu chegar p trabalhar e a empresa fala \"vc vai mudar de setor e não é uma opção\"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user engraçado ela querer ter julgar enquanto ela mesmo não faz questão da filha kkkkkkk que vida irônica 🤭",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Lembram dela? Ela pode ir pra Fazenda 11 e eu já quero! @user @user Sheyla ficou conhecida internacionalmente após ter mais de 5 litros de silicone em cada seio e ter os maiores seios do mundo. Sheyla é sincera e tem personalidade forte. Seria demais ela na farm https://t.co/hxdkZDN1ch",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user fluxouuuu\n\nopen bar pra elas! 🔥\n\nchama na dm pra colocar nome na lista do open! 🌎 https://t.co/h4ukgi9clg",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "🍻🎊 Dia 10 de AGOSTO tem ALOHA !!🎊🍻\n\n🚺0800 MULHER( até 18 hrs )\n🚹5$ HOMEM( até 18 hrs ) \n\nTop Djs : \nDj Denilson do Chapadão \nDj Juninho da vintém \nDj 2g \nDj Biel do Furduncinho \nDj Jotacê do Salgueiro \n+tops DJs \n\nLocal : piscina do bangu \n\n@user https://t.co/tKudfmBB49",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user nao acredito que voce esta se doendo  por uma garota estranha e alheia mano qual a pira?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Sai pra lá, eu em... eu gosto do casal mas essa mina ai fica pra botar o chifre no cara umas 737282722728 com o amigo dele no começo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mulher e foda diz ninguém mim quer 70 mensagem no zap face instagram snap tt vai entender!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "um homem na rua gritou pra mim hj \"meu salário todo na tua mão, morena\" kkkkkkkk entendi ndd",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Daqui a pouco ja circula a fala toda e mais uma vez vc ira ser desmascarado. Vc é muito canalha, devia explicar sobre os milhões da empresa sua e  de sua mulher.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tetinha de brigadeiro toda vez que eu passo do seu lado sinto um cheirinho de cachorro morto se enxerga porra quero mais é que voce se foda filha de um saco de adubo cadela sarnenta eu espero que voce se foda se foda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user existem dois tipos de mulheres :\n\nas que me amam e\nas que não me conhecem.\n*",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user lembrei da minha tia quando o ex marido dela tentou bater nela e ela saiu esfregando a cara dele em todas as paredes da casa dela",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Passando p lembrar que a força de um homem NUNCA vai se comparar com a de uma mulher, porém, ela mereceu, quer respeito? Tem que respeitar. https://t.co/UQfQcxieJH",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu denuncio todos lomotif que a mina mostra mais do q devia, nao goxto??? vai pro xvideos kkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "deve ser uma merda saber que os homens só querem voce pra comer, porque pra assumir.\n\nvoce é imunda garota, por i… — Iiih muitos querem assumir sim, gamam e tudo eu que to legal mesmo kkkk mas eai, e a sua vida, ta cuidando ou ta… https://t.co/Edva1B7jss",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "passo mal com essas meninas hetéros com essa síndrome de quererem ser a super heroína das gays a deusa o ícone e tudo isso pq gay da palco pra tudo menos pro que deve dar https://t.co/thdiGKHiry",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "estampado no jornal toda hora todo estante patricinha sobe o morro só pra da pra traficante 🎵🚩",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user malditos filhos da puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não e por nada não mas mulher parece que quanto mais vc caga pra ela mais ela te quer, quando vc quer tudo com ela aí ela não quer? Sério da pra entender, depois faz textão no wpp falando que não arruma ninguém, que todo mundo pisa, eu em",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "fui p balada trombei uma piranha chique falei p parça não quero saber de nada e depois da eazy e pau nessa presença vip",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user “se a ofendida bebeu por conta própria, dentro de seu livre arbítrio, não pode ela ser colocada na posição de vítima de abuso sexual pelo simples fato de ter bebido”.\n\nExistem notícias tão absurdas que as vezes questiono a veracidade da informação",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "aposto que essa vaca não vai me pagar hoje.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user @user @user @user @user @user @user Duvivier vai odiar os baianos @user dizer q eles são escrotos e paramilitares 😂😂😂😂 https://t.co/dgqB1Eaycw",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user picpay projeto.salvacao. para cada r$ 500 doados, a @user tirará uma peça de roupa https://t.co/osytuleevi",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user já não entende bosta nenhuma de futebol e agora quer palpitar sobre aquecimento global. kkkk \npara que ta feio taina.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sua filha da puta onde que eu engordo??????????????????????????????????????????",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pau na tcheca da novinha https://t.co/ufzeoau1w6",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tão duro rezando pra chover vai toma no cu pra lá em filho das puta hoje e só puta acima do peso 😂😂😂",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vou pegar a sororidade e enfiar no cu dessa idiota",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da surra de priquito",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user só puta curte isso man kkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user parsa o feminismo q me perdoe mas eu queria só 3m no braço c essa mina zoada do crlh vsf falsa desgraçada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa ama uma rola",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pau no cu dos mancha rosa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Oq mais me alegra e ver a corja de comunistas ,sem vergonha, perdendo a teta que mamava no governo, que moleza, vai mamar no boi. E tem muito mais p rodar, o rodo vai passar geral. Foi p isso que dei meu voto.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mano, antigamente era tão melhor , hj em dia as pessoas tem sede de like, seguidores, CARALHO a 10 anos era rolê de geral, Orkut, msn... Hj e só essas garotinhas mentidas rica e digital influencer de nariz em pé que se acha melhor q os outros",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user putinha com fio dental american flag. bunda vermelha de apanhar https://t.co/yar4dgqh82",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Socando sem dó no cu da cadela e o @user segurando pra ela não mexer. Mais uma parte desse #canil que foi tesão demais. Fortalece no #RT pra postar as outras partes! 😈😈😈🍆 #gayfuck #canildodogão #sex #gaysp #bigdick #gay https://t.co/WenVwBFBVp",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tu vai fude no céu piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user Mas também é cada pergunta e cada pauta idiota. Vocês acham que o Presidente é sem noção ? Conheçam minhas ex e chefes. Kkkkkk aí saberão o que é gente que fala o que pensa.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acordar com a notícia de que a madrasta ,a puta,que ajudou  matar a Mel foi presa...\nDesculpe, mas,prisão é pouco🤬😡\n\nDescanse em paz, Anjinho MEL! https://t.co/P0q3IbJVUS",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user acha bonito ser tão piranha??? — sim, inclusive se tiver algum amigo solteiro manda pra nós https://t.co/m1a6hztlew",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do 69\nmaigente do cer",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user foi assim que eu, @user  e o @user  deixamos o cu da cadela! \n\n- canil do dogão belga -. https://t.co/ovbvfmyghj",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user manooooo vai se foder com o corpo das dominicanas, é a oitava maravilha do mundooooo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user não fui eu quem fez, mas tb n sei quem foi, achei por aí. eu acho a piranha bem legal :3",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "laila vagabunda fez o lorenzo fala \"titia feia\" 😡😡😡😡",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tadinha tem síndrome de pau",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do capô de fusca",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do capô de fusca kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "quer ficar magra e bela? enfie o dedo na goela — vai dá meia hora de cú vai https://t.co/fmj3mkvxdc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user seita que doi menos, ratazana gorda.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "como é q sai nesse frio se eu só tenho roupa de piriguete",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da surra de piriquito\n...",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "perderam o show da puta ontem em",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não entendo por que insistem em achar que sabem da realidade das coisas, da minha vida, as vezes minha vontade é de expor tudo aqui porém não devo santificação ao a puta nenhuma... rs",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa vee é uma tremenda vaca #orangeisthenewblack",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user parabéns piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da dominação\n\njdjdjskskakakksd",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user se fosse mulher feia tava tudo certo, mulher bonita mexe com meu coração",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "saudades apanhar a puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user é aquele ditado \npiranha não sente frio nas pernas",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "por que casal de sapatão é sempre tão lindo?????????",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user \"essa gorda de merda da me 5 e ao rego 10 fdppppp ade se fuder zé\"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mano, surgem vídeos de pitas de 15 anos a fumar canhões e a fazer figuras tristes na net e vocês ainda tentam dar uma de justiceiros tipo \"lOl VoCêS tAmBéM fAzIm x E y, dEiXeM \nA mOçA\"\n\nparem caralho, chamem mas é a fucking segurança social",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "És bue magro\nNao te dao comida em casa\nSe vem o vento desapareces\nSe fosses mais gordo\nTens de comer mais\nEntra num ginasio\nSo precisavas de engordar uma becka\nCome comida como comes gajas\n\nVAO PO CARALHO FILHOS DA PUTA https://t.co/TfFLRzJydU",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mano pqp minha namorada me estressa tanto mais tanto que acho que vou pular da janela!\nobs: pena que não é alta a janela affs!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Minha vontade de comer essa piranha na porrada desde 2016 não sumiu e parece que até hoje ela tá DOIDA pra isso acontecer... Deus segura muito minha mão, papo reto 😡😡😡",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "valorize sua namorada, pq todas mulher tem buceta, mas nem todas sabem lavar",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user essa ficou arrombada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sapequinha peituda kkkkkkkkkkkkkk tomar no cu porra tenho nem peito eh mole",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "foda sair nesse frio mas ainda bem que eu so piranha e nao sinto frio",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "homem: nossa você é muito linda parece um anjo tô apaixonado quer ficar comigo 😍\n\nmulher: quero não vlw\n\nhomem: você nem é isso tudo sua escrota nojenta puta vagabunda eu nem queria tanto ficar com você mesmo sua piranha arrombada para de se achar sua vadia fudida rodada🤬",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "que preto do caralho, vai se fuder",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tem umas 3 meninas na minha sala q parece atriz pornô. pqp kkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "To vendo gente decepcionada pelo comentário e gente... é o Josh, aquele que recolhe florzinhas na caminhada, que procura a porra do último morango na Índia, que dá ursinho com o perfume dele, aquele que valoriza mais coisas reais do que texto na internet. A maior cadela ali é ele https://t.co/5ym72mQGr9",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha aguenta 3",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "apanhar a puta com melancia, que sonho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o inferno deve ser eu fazer compras com a minha veia\npqp mulher enrolada do caralho tnc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user aguento sim enfio tudo dentro dessa buceta😈🔥",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user kkkkkkk linda e conservadora, já @user feia e de esquerda hauhauhua.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se fosse mulher feia tava tudo certo, mulher bonita mexe com meu coração.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user depois anda dizer que eu só te dou desprezo vaca💕",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "sassá feat. voz de galinha empinando pipa caraio kkkk\n🔊 https://t.co/hmticvsbme",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user tá maluca tu tem mó rabão desgraçada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa menina é muito biscoiteira é sempre aparece ela pra mim, tomar no cu sô foda se minha filha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "como que a menina vai pra escola parecendo a lauren jauregui vei vsf",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vai a merda piranha grávida",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "“se vc pintar o seu cabelo d rosa vai ficar parecendo uma vaca”\n~rodrigues, mylena.\n\n@user",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user homem gosta é de buceta colega kkkkkkkkkkkkkk https://t.co/gbchpme3a6",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user adoro parecer  um flor linda deixa eu colocar  o meu pica pau dentro da flor",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "e como ela gosta de uma água quente.... @user vargem grande paulista, brazil https://t.co/krko4dhjml",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user por isso mulher bonita é feliz com homem feio.... oi to solteiro kkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se não fosse meu irmão eu chamava de filho da puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pras novinha é pau, pra minha ex é tchau e já foi 🎶🎶",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha da cavalgada kkkkkkkkkkkkkkkkkkkk misericórdia",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "minha mente fodida leu esse tweet e pensou \"é melhor morrer com a última refeição sendo um ovo do que morrer gorda\"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vontade de matar essa mina vsf",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pedro as vezes parece uma piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não precisa engolir nada não, mo. você nem aguenta, ele é muito bom pra você bjs",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "#meuexabusivo me chamava de vagabunda por já ter transado com outros caras antes de conhecer ele.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu marquei de encontrar o fred e a vagabunda se passou e só vai acordar às 20h eu vo mata",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user caralho gostosa lá vai piroca aaaa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user putinha aguente 3 kkkk socorrooo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user putinha de 4 😂😂😂😂",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user barbudo metendo na putinha https://t.co/ozmukxoa5m",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user essas amigas a piranha deve valorizar",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user tem umas q sao mo vagabunda 1 mes as divisorias ja tao tudo rasgada kk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o seu amor foi bye bye \nna sua bct foi pau",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user juanfran cansou de ser a putinha do madrid e vai vir pra sp ser a putinha da capital.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mc gw- 4:20 ela fuma makonha 4:30 ela senta no pau https://t.co/lhvhkjvpkl",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vai fode piranha vai me dá de ladinhoooo https://t.co/0je5zon15z",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se curti drogas, vamos transar e cheirar junto? sua buceta = 2 pinos — ma va pro diabo https://t.co/owlqkoeora",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acho que estou na fase mais feliz da minha vida, tacando o fodasse em tudo, vivendo do meu jeito bem humorado e pau no cu de quem não gostou, acho que só me falta uma morena pra completar tudo 😪",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user hoje vou apanhar uma puta do crlh",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "3/8 11:56 piranha master❤: vamo jogar uma alta\n3/8 11:57 putiane❤: queles pique kkk\n3/8 11:59 🌺: aindaaaa\n\nnada muda, é isto❤",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user tuda puta merece uma surra bem dada! apanho com mto prazer! #spanking #puta #casal #fetiche #fetishgames https://t.co/m4jc3enj…",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Coe seus putao , 🍁😈 Maior carinha de santo , fiz vira putinha na cama 🍁 @user @user @user @user @user @user @user @user @user https://t.co/rgAlXeIM6q",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user friozinho bom pra toma um cha\n\nde buceta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "me hipnotiza quando joga a bunda \neita porra eu viajo na vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu so quero que o mundo se acabe com várias piranha no quarto fudendo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ca puta tenho nos olhos ainda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user tem piranha sim kkkkkkkkk,e talarica nem se fala kkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "safada dos coroas \n\ncarai foda bicho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user sapatão é um ser frouxo, se apaixona e já quer casar",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "chego nesse site e ainda tem gringa puta com o sexiest moment kkkkkkkk tao ofendendo até o bob, q coisa né",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mete com força e com talento estou ofegante e vc percebendo bate maltrata essa puta safada quero jatada de leite na cara",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user “anti feminista” graças ao feminismo tu tem o direito de expor tua opinião, burra &amp; retardada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user cala boca gripe, sabonete, bandeja \nridícula, meio metro, palhaça, macaca sjajahjasjjss",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Esses fãs de kpop devem ter no máximo uns 13 anos, vivem atacando todo mundo por nada, que fandom mais Chernobyl, já não basta eles ajudarem a alimentar aquela indústria tóxica da Coreia não? Kpop fãs = aberração",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Bofe dá de machão e come viado.\nNovinha perde calcinha pra organizador de festa só pra beber cerveja ou vodka de plástico.\nTinha os melhores desfiles cívicos.\nTodo mundo já pegou todo mundo e tá tudo bem. \nVicentina vs IBE sempre será a melhor guerra. https://t.co/qmLs8Z4En4",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user se esconde ai por foto de japa gay sua putinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "piri, pipiri, piriguete, prova q me ama andando no meu chevette",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "esperando a puta da júlia dar sinal de vida",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu igual uma piranha correndo atrás das cachorras na rua mkkkkkmmkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user puta legit? ahshshhshshsh",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu ou samira quem é a mais piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user traduzindo= piranha/ galinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user nem pelo wpp tua vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "esse dino é retardado kkkkkkkk fala de vagabunda e não quer me ver brava",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "gozava tanto cmg para agr tar feia, mal jeitosa e a fazer nd da vida não costumo ser assim mas: karma is a bitch",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "concordo vadia puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user \" putinha da ppk de mel \"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user Se eu chamei sua mãe de puta, você só pode achar ruim se sentir. Mas relaxa, sua mãe não deve ser puta, então não tem porque ficar sentido",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "\"mira lo gorda que estas. me das asco\"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do fogo insaciável 🔥😯",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "quer q eu te chame de que? quer q eu te chame de piranha\ncê de quatro e eu botando\né sequência de-",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Reivindicação idiota e de caráter racista. Espero que o povo baiano\nignore a cor dos candidatos e eleja prefeito competente e honesto. A raça só importa a negristas como o presidente do Olodum, um imbecil! https://t.co/SSiYlPHcX5",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user hj em dia as muie ta tudo virando puta ai nos nao pode postar uma ft ousada que nos é tmb kk vsf",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk essa ai e a tipica menina que se acha a gostosona mais não é ninguem. Buceta deve passa um trem dentro. VAI LAVA VASILHA",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mas deus existe irmao kkk eu nao vou precisar nem ir atras desse diabo ruim... nois vai se trombar na rua ai eu quero ver se eh boa memo de falar essas merdas na minha cara desgraçada do caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha sem calcinha 😂😂😂😂\nsacanagem",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "uma arrombada essa menina se eu pego ela esqueço meu senso e dou um soco",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vocês são umas otarias da merda! não ligam um caralho ao Porto b mas quando o Porto diz que alguma coisa do Porto b é de graça vocês até correm feitas cadelas! nojo de vocês.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vem minha piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user o cara é uma máquina de meter a real em p*ranha\n\nfica bem meu puto https://t.co/iencicn6se",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sai piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sai vagabunda kkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user não cuida não pra tu ver se não navalho a tua cara e a do teu segurança, vagabunda! https://t.co/ky319jqrgc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mete com força e com talento estou ofegante e vc percebendo bate maltrata essa puta safada quero jatada de leite na cara",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha que castigakkkkkkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user fabio júnior é  o famoso papa tudo, pqp, até a maria betânia? corajoso ao extremo.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "q inveja é essa minha filha, da uma segurada na emoção kkkkkkkkk feia",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "lembrei agora que me apaixonei pela puta uahsushsushua gente, maravilhosa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user uma boa piranha*",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user compra moto pa anda com muie feia na garupa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o mingi é um neném um docinho de pessoa que só merece amor e não uma surtada fazendo merda com ele ai caralho que raiva",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user ei vai toma no teu cu myckaela",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tenho uma raiva disso cara, tudo tem que reclamar e me dá esporro, não sabe ouvir e ficar quieta não, inferno do caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user agr me da buceta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user lembrei do vídeo na nenezimha: “doutora não, puta.” kkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Desculpem mas assim não é bonito , pessoas têm que entender que lá por ser grande não significa que tem qualidade. \nAcho feio rabo assim https://t.co/G9BLvICKBv",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user essa menina se superou, feia por fora e por dentro",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user diferente da baleia da sua mãe fdp",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user nem parece que é puta, hahahaha .  atendendo em sp até amanhã, whatsapp: 19989357547 https://t.co/cgtsu7h3tn",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user o caraí, a mulher deve ser feia msm hein,vou acabar acreditando assim akakakakaka",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pegar no topo , na prosperidade , com tudo dentro e na moleza qualquer uma se prontifica a se oferecer ! raro mesmo é agarrar com garras e unhas quando o companheiro não tem nada , quando o companheiro começa no zero e muito menos quando ta sem um Puto no bolso 😚👌",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user sua puta, putinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ta pegando homem casado ne piranha — piranha nao sou solteira https://t.co/kwhljvdaje",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do anal mkkkkkkkkkkkkk\npqppp",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Triste por ter motivado tanto ele, mas n sabíamos a vagabunda que estava se relacionando. Meu amigo merece muito mais! Triste por ele ter criado confiança em alguém que n presta, e agora nunca vai confiar em uma MULHER de verdade por causa dessa menina que não quer nada c a vida",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user não vi feministas e nem a imprensa sair em defesa da advogada https://t.co/kfhnhpazuj",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user agora o poste q mija no cachorro né 😡 porra se vier assim vou deixar ela na upa fudida 🙅🏽‍♂️ https://t.co/tsmrcikabc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user putinha do rival https://t.co/afoublztln",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "da vontade de quebrar na porra cs, uma por uma pra ver se vira gente",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da ppk de mel 🤪",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Sou repórter Ramalhão JCT.Jornal de Cidade Tiradentes Greenwalt e americano honesto \n SÓ BANDIDO OLHA CARA DESTE SÁFADOS DESTA PROSTITUTA DESTA VAGABUNDO DESTA VACA POLÍTICA E AUTORIDADES CORRUPTAS POEMA A VERDADE.G https://t.co/ul67N8G9kA",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E ai safada punheteira? Já lavou o grelo hoje sem fazer birra? Batedora de siririca. Army? Mas é nunca, Army respeita os meninos , não usa eles como objeto sexual não sua vagabunda punheteira. Shipper tem é que levar chibatada no lombo pra aprender. sem vergonha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user vera vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user q sua puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user o cu de sua mulher",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "todo o dia lembrando que eu sou só mais um reservatório de porra",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "torava todas essas japinha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user que mulher retardada kkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da bunda grande ,kkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu que sabotei o copo dessa piranha 😀🎶",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user vagas abertas para as putinhas &gt;&gt;&gt;&gt;fav e rt&lt;&lt;&lt;&lt; para entrar estamos aonde você menos esperar comenta #putinha negah https:…",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu prefiro me prevenir pra n acontecer de engravidar sabendo que n vou poder da uma vida boa aos meus filhos. Na hora de transar as vaca quer tudo no pelo, sentir um leitinho quente no útero, dps que passa aperto fica pedindo a liberação do aborto pq as bonita não pode prevenir",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user vagabunda que chama",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o engraçado é se pagar tanto de boazinha, e ser a maior vagabunda 🤣😶",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pra ser minha inimiga no mínimo tem que ter um rostinho bonito e delicado, não se considere minha rival com essa sua cara de cavalo não, feia, cara de traveco, cabeçuda, queixo quadrado  kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk 🤣🤣",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "meu incômodo não é de pegarem essa garota, mas pqp, cheia de doença, toda porca. aí não dá né 🤦🏻‍♀️",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "enfia o \"love you\" no cu, puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "#donadopedaco  mudar faz bem fica Tam chato ja saber desses enredos a mesmice . #mariadapaz . Merece ficar rica mais rica ainda e dar uma bela surra na vaca da filha .",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vadia do boquete 🌚",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user fim da vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pq q essa vagabunda tá rindo assim? #voleinaglobo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user pensa ter uma namorada maluca assim , caralho https://t.co/xasaymcs6z",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user o senhor é o que mocinho eu duvido, no mais é mocinha arrombada do pt.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user merecem que vos meta a pagar as minhas cotas seus filhos da puta.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tá solteira é piranha, tá casada é chifruda, tá quieta é incubada, aí some da rua e o bofe não deixa sair, aí fica na rua demais tá solta, posta que tá triste tá sofrendo por causa de macho, tá gorda tá grávida, tá magra tá doente.\nGente vamos cuidar da própria vida é de graça‼️ https://t.co/ZmwiZsaZpY",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "feia nois não deixa baforaaaaaaaaaaaaaar kkkkkkkkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vem aqui putinha https://t.co/6hthcojoit",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o sua monica do caralho vo ti deita na porrada se eu volta ai ein   vai toma no cu       filha da puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user hoje eu só quero ver a coça que a maria da paz vai dar na piranha da filha dela",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user natura homem?? isso é homem fobia, cadê as feminazi pra gritar ??? e as biba???",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "como existe mulher maluca pqp, mais amor próprio 🙌",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vai embalar é o caralho!!!! toma, putaaaaaaa!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do boquete 😋",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "imagina foder com a lauren \ndeve ser uma visão do paraíso \nmeu deus",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "- ela é linda pra caralho mano por dentro e por fora, é uma cadelinha desgraçada que eu quero matar 90% do tempo mas mano HINA a gnt tem historia pra caralho véi, cada dia eu te amo mais e mais e eu fiz essa thread exatamente pra te lembrar disso https://t.co/2gkeDSYB6f",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user Mas a vaca comunista é muito engraçada hein? Não não! Não posso te chamar de vaca. Em pais socialista não tem carne pro povo! Então fica de lixo socialista mesmo. Bom é governo sanguinário que passa pano pra 70 mil assassinatos. Se acontecer algo liga pra PM opressora sua imunda!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "e tá errado ?! mina gostosa do krl me acabo no pirocao",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Essa é a forma irracional com que são encaradas hj as questões importantes no brazil. Vestidas con calças jeans apertadas, ficaria ainda mais dificil os estupros. Não demora e essa ministra idiota vai querer implantar o cinto de castidade. vermes.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha goza litros",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user @user @user que mulherzinha nojenta. nem dou play.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se paga de mlk msm sapatão do caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "aiaiaiaiai é vendo umas coisas dessas que fico pensando se n e mais lucro virar piriguete kkkkkkkkkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ainda por cima é uma tremenda gata\npra piorar minha situação.\nse fosse mulher feia tava tudo certo\nmulher bonita mexe com meu coração ❤️",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Hoje no https://t.co/tQZ6i5IXfM a Sensacional Mulata Natasha Medeiros @user Apanha, Toma no Cu e Leva Leite na cara !! Que ceeeena !! Quer ver ?? assina o https://t.co/tQZ6i5IXfM !!!! https://t.co/PNk1xMgoKb",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela bebe fuma, bebe fuma, pia papagaio traz as vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user erro do homem? — desprezar a mina responsa e se apaixonar na piranha https://t.co/kkmfgdytoo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "É lésbica? Deixa q eu taco a pika q vira mulher rapidinha — encosta UM dedo em mim sem eu querer pra tu ver se eu não corto teu pinto fora e faço tu engolir 🥰 https://t.co/9eu3DiAOXA",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user odeio essa putinha de like ela me bloqueou consigo ver nada nesse caralhoo que ódio",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user muito bom!!\no maconheiro putinha de traficante devem tá espumando de raiva!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Um lugar onde todo já foi amante , fiel, piranha, corna, é terra de ninguém, aqui o sujo fala do mal lavado, piranha julgando puta, usuário falando mal do traficante e assim vai... Um lugar onde a pessoa posta uma coisa, mas na realidade é outra kkkkkkk https://t.co/pN2ip6jQQ4",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user a putinha da galera https://t.co/ygvefruwv8",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Hehe😈sexta da maldade promete🔥\nSo Na pressão, no cu da casada liberada,de camera-Man o marido liberal😈\n💟 #CURTEAI\n🔄 #RETUITEAI\n💬 #COMENTEAI\n@user \n@user \n@user \n@user \n@user \n@user\n@user \n@user \n@user\n#putinhaliberada https://t.co/VtxklevWAr",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user piranha nao muda sempre vai pisca bct pra uma glock na cintura \n#vemtranquilodia10",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela quer que puxe o cabelo pede tapa na bunda totalmente selvagem eu adoro essa puta🎶",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vou matar aquela piranha macumbeira.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user pra quem não entende ...\nmenina que pega quem quiser//piranha https://t.co/2hkdkv4wp5",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user putinha aguenta 3",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "garota piranha do karalho 😡",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user @user 😂😂😂😂😂😂 eu sou a gorda putinha é corna ..",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a vaca miou #mpn #nowunited #marinaruybarbosa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "safado que virá puta cresce o olho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user que vagabunda rapaz",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da dupla penetração kkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha aguenta 3 😜",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rala rala piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user @user piranha #mpn #uniters #nowunited",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "engraçado ver blink dalando que army é tpxica mas postar essas merdas e se fazer de santa depois\ntira nosso pau da boca ô sururu vai lavar uma louça",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user as piranha trepa más a glock não 🎶🎶🎵\n#vemtranquilodia10",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mais de boa que pai de menina feia",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "antigamente eu tinha dinheiro p incomodar, hj em dia tenho nada e essas grts não me esquece porra",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do rebolado 🤪",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user tá soltinha em puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mano oq as sulistas tem de gata elas tem de mongolóide",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "EU NÃO QUERO DRAMA NO MEU MANGA SUPER FOFO!!\nWTF SE A NANOHA NÃO ACABAR COM ESSA VACA NO PRÓXIMO CAPÍTULO EU VOU FICAR MUITO PUTA!!! HAUAHAUHAUAHAU https://t.co/mXYGE61FMN",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user as retardadas ficam puta denunciando meu twitter 😂😝",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa vaca não merece nada do que ele fez por ela. merece um lixo igual a ela, que faça oq ela fez com ele, sem noção!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a piranha da claro tá me irritando já🤬🤬😠",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user calma, putinha dois amantes.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Coe cr, sei que não tenho nada haver cm sua vida, mas para de dar Ibope, nego gosta disso, quanto mais tu render assunto, mas elas vão tá achando que tu tá se importando e mais vao falar, manda essas porra procurar uma calcinha pra lavar, vive sua vida cr, você merece .",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "as meninas hoje tudo no modo piriguete, frio e tudo de fora",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Difícil. Ninguém quer comer. Feia. Dentes ora fora. Se veste mal. Não sabe cozinhar. Dorme o dia todo. Fala mal de todos. Faz feitiço pro genro. Só fala em maldição, quer q i genro banque ela e fede. https://t.co/4pM36WjD19",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user que foi sua sequel4d4 do caralho polenguindo fedida",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user corna e vc sua filha da puta eu vo enfiar 3 dedo no teu cu",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user @user @user come minha irmã fdp !!!\n❤️",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user papo dessa festa ontem só ter mina feia\nnão é a toa q geral fico em cima",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user a minha vida tá quase igual a do bolsonaro: é só puta, palhaço, comedor de traveco e atriz decadente me criticando.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user sororidade nao existe mo, racha sebosa existe sim https://t.co/uldunhfyvs",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pedro falou que tá caçando puta🤣🤣🤣🤣🤣🤣🤣",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "nunca pensei q eu iria criar um ódio tão grande por essa garota, puta que pariu....",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user tudo piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "uma vez piranha, sempre piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vai vagabunda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user bac cafetão, 0 sentimentos pas piranha kskskskksksk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mulher tem 7 sentidos, visão, audição, olfato, tato, paladar, drama e reconhecimento de puta.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user vai tomar no cu eu não aguento mais esse governo eu vou chorar puta que pariuuu vai se foder quem votou no bolsonaro desej…",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da surra de priquito 👍😎",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da cavalgada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha goza litros",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sla mano é tudo muito estranho primeiro ela parece que tá se escondendo dps ela faz aqueles movimentos com os braços parece que tá discutindo mas porra não tem ngm ali",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "03/08/2019 12:33:26 Bia Almeida: então você não é virgem 😂😂😂\n 03/08/2019 12:33:42 mc loma❤️: vou me abrir de outra forma rs\n 03/08/2019 12:33:46 mc loma❤️: brinca muito\n 03/08/2019 12:34:05 Bia Almeida: vai se abre igual puta\n\numa conversa super normal 😂😂😂",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha da dupla penetração...",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha dos coroas",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user bebe mais piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do fogo insaciável kkkkkkkkk pqp",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "burra como o caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user sua vagabunda https://t.co/dgv70nnzpx",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user cadela vagabunda dps apaga isso agora",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user @user @user boa pretinho, vc merece mt💖💖",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user nao eh mais 2012 bucetaaaa ela evoluiu porra https://t.co/aba4hpc94f",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user literalmente joguei fora um dia inteiro naquela porra de fase, morrendo e jogando sem levar quase nenhum tiro com 40 demônios na fase pra depois descobrir que dava pra passar daquilo em segundos",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "desde segunda feira isso , tnc mesmo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user imagina ela num show no br tentando falar palavrinhas em português????? pqp vai ser o dia mais feliz da minha vida\n\nhttp…",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "botando uma piranha pra mamar enquanto a outra espera https://t.co/ohpjp4kd0j",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa biscate vadia q saiu do mesmo lugar q eu da minha mãe é um lixo puta merda, nao sei pq essa vagabunda nao morre logo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tava voltando to mercado e me passa um grupo de adolescente, um bem viado berra “Jesus do céu que gato” e a amiga segue com “meu deus que deliciaaaa” \n\nTo rindo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user essa semana eu tava com fogo no cu de fazer progressiva de novo aí hoje fiz escova pra ver e velho digo com toda a ctz do mundo que não passo mais progressiva nesse cabelo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "fiquei uma hr com a puta to telefone.. aja assunto.. kkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "nossa que pai de boa \nse é meu pai levanta da mesa puto perguntando onde foi q eu aprendi",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "sim filha da puta desgraçada do caralho só você tem cu sim seu namorado perdeu a única bunda existente no planeta terra muito triste ein vagabunda vai estudar retardada fodase",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "caralhoo caralho eu preciso ir",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "se uma prostituta tive um filho  e ele nasce com parkison   esse filho vai se um tremendo  filho da puta?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "porra tmlc !! os brabos !!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "teve um acidente feio aqui so pode",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela é puta mais também tem sentimentos 🤣",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user vc pensa demais",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Aposto que foi a melhor coisa pra ele, olha isso uma mina achando que corpo de merda vai render relacionamento.\nA unica coisa que você vai conseguir e um MLK que gosta do seu corpo é nada mais, DEIXA DE SER IMBECIL ...",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user mas que evolução em.\n\nmds kkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu to sentindo uma falta absurda desse pia de bosta q abandonou as amiga por uma buceta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O pessoal que frequenta o ensino noturno não tem de levar com as pitinhas, as crianças e o jardim zoológico do ensino diurno.\nAh! e também é conhecida como a escola das putas e o pessoal de fora mete todas as raparigas nesse mesmo saco!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "séria errado festejar pela morte dele??",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user pq meu interesse passa tão rápido ?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "-q lugar eh esse? 😍\n-gramado!! \n-eh vagabunda? q legal vadia e seguiu meu namorado pq?? vontade de dar??????",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user https://t.co/8ilBPkOiHr através deste link você se cadastra e compartilha seu link e ganha dinheiro através de cliques em seu link e se inscreve e há também tarefas perguntando mais deixe o número de telefone é totalmente gratuito",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "porto já tem segundo grupo! meti o link na thread dos grupos",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "first q sim ponto eh isso e eh lixo mas oq tem a ve milita numa foto nada ve???",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user crre que as feminista padrão tá puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user perdi\nmaquiagem é coisa de puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tá no cio caralho",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ai vai toma no cu moro eu fico indignada quando nego ta na tpm ou seja lá o q for e vem de putaria pro meu lado falta derrubar sangue na minha boca por nada se fude ninguem tem culpa se a vaginilda ta sangrando",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user meu deus passada, a vagabunda e qm to achando q é?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user putinha me cavalgando https://t.co/idgwvvstv4",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "chamei a mulher de \"tia\" que trabalha no habibs mulher me xingou me tratou com maior ignorância, tô cheio de ódio dessa arrombada 😡😡😡😡😡😡😡",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Video novo liberado no Xvideos !! Filho goza dentro Madrasta ... E o Pai Mete a pica com ela toda gozada ... Gostou ?? Curte e RETUITA !!! Quer ver mais ?? Acessa https://t.co/KM42nLRlvD https://t.co/KrKMVL6RVx",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela queria fuder na ondinha do black toma toma piriguete",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o celular dessas menina deve feder bosta, do tannnnnnnto q elas enfia no cu pra dançar 😅",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vera magalhães lixo de merda petista sem cérebro militonta !!!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Gente quem e essa luara pra fala da minha pessoa mais baixa q ela e só ela msm deposito de porra aceita ser a segunda opção ta emplorando o ex pra visita com macho na rua sabe nem ser vagabunda disposição eu tenho e só vc sair da onde vc ta escondida boca fedendo...",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu te amo minha puta preferida 😂❤️ https://t.co/jb1bbardoa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "botando uma piranha pra mamar enquanto a outra espera 😂 https://t.co/svqxeyjxu8",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pessoaleeee !! \n\né verdade que quando uma mulher dá o cú o rabo cresce ?? 🤔🤔",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user kkkkkkkkkkkkkkkkkkkkkkk cheio de tesaozin de vaca do crl\n\ndesce alcool q passa 👍😜😁😁😁😁 amém",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mina favelada é ridículo !!! https://t.co/ndqhnkgufc",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user @user @user a única vagabunda q eu tô vendo aqui é vc sua porca fascista filha de uma puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha da surra de priquito kkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user Não tenho bem certeza se o Bolsonaro acertou, \nAté que os ratos e baratas se manifestem...\nBate mais que eles AGUENTAM CAPITÃO!\nO Daciolo teve mais votos que você!\nVá atrás de um pau para tirar leite, sua seringueira RETARDADA! https://t.co/HPIaIWSIHS",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user buceta todas tem, postura só algumas 😉",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "meu deus se vai dar hate faz direito sua porca feia e burra",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user sacana kkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user \"mulher é lixo sim vai tomar no cu\"",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user eu que sabotei o copo dessa piranha botei uma bala boa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user ahahah ent temos de ir apanhar a puta 😝",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user ô vagabunda, te amo, te considero irmão puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "bigodin traiçoeiro que chama atenção de puta, ela já sem calcinha, cheia de whisky na cuca, vou levar ela pro beco e pau na filha da puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tenho do da menina que amar ele de verdade, e ele não se permitir gostar dela por causa do que essa vaca fez com ele",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Até parece minha esposa sentando em um pau. #cuckold #hotwifeclubfan #hotwife #corno #cornomanso #cantodoscornos #corninho #esposasafada #esposaliberada #namoradaputa #slutwife https://t.co/RKI1CcGw1t",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user putinha das pirocas kkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user não tenta mudar piranha, piranha não muda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "3/8 12:59 cecilia: Apois tire ele da gaveta q eu n sou palhaça sua filha da puta\n3/8 12:59 cecilia: ta achando q eu sou suas cachorra eh\n3/8 12:59 cecilia: seu cu",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "more vc tá putinha pq?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "putinha do boquete, credo que baixaria 😂😂",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user @user piranha apaixonada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user e um nojo essa mulherzinha..🤢",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "as piranha do bato passa jogano a xrc 🎶 @user",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ifood me mandando cupom achando que vai me ganhar, hoje não piranha",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@user pau nas vadias vermelhas!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user quem disse que uma gaja feia não pode ter lomotif 🤢✨ https://t.co/h9g8i9oal1",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "rt @user mina que pega pia sabendo q o pia namora é o auge do vagabunda, e o pia então nem se fala",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mochila nas costas radinho na cintura bonezin pra trás só caçando puta",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A política virou um circo, todo mundo grita e ninguém escuta ninguém.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem gente que fala demais e entende de menos, mas segue com confiança rs",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cansado dessa internet onde todo mundo acha que tem a verdade absoluta.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O problema não é o gênero, é a falta de caráter de muita gente mesmo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem homem e mulher que não presta, isso é sobre caráter, não gênero.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O mundo tá cheio de gente folgada, independente de ser homem ou mulher.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A falta de educação não tem gênero, tem criação.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Engraçado como as pessoas generalizam tudo, ninguém é igual a ninguém.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nem toda crítica é ódio, às vezes é só opinião diferente mesmo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tá difícil conversar hoje em dia, qualquer discordância já vira ofensa.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A internet criou muita gente arrogante com zero empatia.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nem todo xingamento é machismo, às vezes é só raiva mesmo kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem hora que a gente perde a paciência, mas sem desrespeitar ninguém.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Criticar uma atitude não é atacar uma pessoa, vamos aprender isso.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não suporto hipocrisia, seja de quem for.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ser ignorante é uma escolha, e não depende de gênero.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem mulher tóxica, tem homem tóxico, e tem gente boa dos dois lados.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Às vezes a pessoa é grossa, mas não é machista, só mal educada mesmo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Todo mundo quer respeito, mas nem todo mundo sabe dar também.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O problema não é ser homem ou mulher, é ser chato em qualquer situação.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A discussão é válida, o que falta é bom senso dos dois lados.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tô vendo gente forçando pauta só pra lacrar, ninguém aguenta mais isso.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A culpa não é do feminismo nem do machismo, é da falta de empatia mesmo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A galera precisa parar de achar que tudo é ofensa pessoal.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Discordar de uma mulher não é misoginia, é só discordar.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem homem que fala besteira e mulher também. Igualdade é isso aí.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Crítica construtiva não é ataque, é parte do debate.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Falar que alguém tá errado não é ódio, é opinião.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Parece que tudo virou motivo pra briga na internet, ninguém respira mais.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem gente que confunde ser direto com ser ofensivo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "já era, fui substituído",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "meu deus não sobrou nada",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Isso aqui é bizarro, rodando um mesmo processo nos dois editores",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vini Jr. deu um carro de presente pra Virginia em comemoração a 1 semana de namoro",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela merece",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "kkkkkkkkkkkkkkkkkkkkkkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a Virgínia com um personal desses e namora o Vini Jr tem carne que só cai no prato do vegano msm",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quando a primeira-dama do Real Madrid era essa aqui e não a forçada da Virginia",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Como vocês tiveram a coragem de atazanar o fim de semana dessas duas gastonas? Sério vocês merecem a Virgínia",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tota presenteia uma CRIANÇA na TIMES SQUARE com seu ÓCULOS! 👓 A mãe contou que ele estava fazendo 7 ANOS e Tota fez o dia do garoto! 💙",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a bolha dev nos últimos dias",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Já estamos vendo os efeitos do trabalho presencial",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "qual musica você ta ouvindo no exato momento que esse tweet ta aparecendo pra você?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu quero q todo mundo q está pedindo neymar no fluminense vá pra casa do caralho",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "inevitável pra quem exatamente",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ok carol bom dia pra você também",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vai se fuder seu escroto",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "esse cara só fala merda",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "as mulheres merecem respeito",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Meu sonho é namorar essa mulher",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o que tem de canalha nesse mundo não tá escrito, o cara ta vendendo um curso e mostra uma notificação FALSA a cada 5 segundos dizendo que alguém comprou o curso, ainda escolheu nomes super comuns pra fazer com que seja mais plausível pra mim isso é pena de morte",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vocês viram isso? Temos um momento histórico acontecendo nesse vídeo. Pela primeira vez uma empresa chinesa teve de provar num evento de tecnologia que sua máquina não era um ser humano debaixo da 'pele sintética'.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pq o robô tem seios? Kkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Atire no abdômen com um 7,62 para eu acreditar....",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se você compra de um vendedor que começa uma live em cima de uma Ferrari...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Gravei um curso rápido e gratuito pros nubankers com dicas de como sobreviver ao trabalho presencial.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nunca faça sticker bomb em um Mac ou notebook com construção em alumínio",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "parabéns kkkkkkkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nem fudendo que ela fez 45 milha ano nos últimos 2 anos",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "SEMPRE aparece conteúdo dela no meu Instagram e tem hora que eu paro e solto um arzinho pelo nariz e finjo que não vi 😮‍💨",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "meu filho acabou de dizer: pai, tem como vc me dar 300 reais pra eu comprar um gift card de presente de aniversario pro meu amigo? eu nao consegui nem responder, claramente não estamos vivendo no mesmo mundo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "quis me mimar hj com um lanchinho pequeno pq to de dieta",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ketchup deve ter acabado tudo nesse pequeno lanche ai",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "puta que pariu",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mano essa mina é linda",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela até que é bonitinha, mas não deve saber lavar uma louça",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Homem não diz mimimei! Homem diz: 'Dediquei-me ao zelo de minha própria persona com esmero e nobreza, pois sou merecedor de tal distinção'",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acabei de pisar os pés fora da academia pra ir embora e me deparo com isso…",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa mina só fala besteira na internet",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "quando eu já sei o que o meu time vai tentar fazer, mas não tenho como provar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "nosso garotão acorda monarkando já",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Bruna quem da mais trabalho? Lucas ou Noah?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Bota pra tora, Fica quieta não, Bateu levou",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tá tudo sim Bru amo vc e seu canal",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "linda ! com todo respeito",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "GATA",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Uma deusa!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Oi Julia te admiro hoje amanhã e sempre!!!!!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tão linda.. 😍",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu nem uso o wpp, mas tá fazendo uma falta 🥲",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vi um debate hoje e sinceramente, ninguém quis ouvir ninguém, só gritaria",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a galera chama tudo de machismo, mas às vezes é só falta de educação mesmo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "minha colega é braba no que faz, não tem pra ninguém",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a mina é firmeza demais, trabalha muito!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tava trocando ideia com ela, super de boa, sem treta nenhuma",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "meu deus, o povo briga por tudo nesse app, não dá nem pra conversar em paz",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu gosto dela, só acho que às vezes força um pouco o ponto, mas ok",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a mina mandou bem demais na live hoje, gostei das ideias",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "acho ela meio sem graça, nunca consegui acompanhar os vídeos",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela tem uma paciência que eu invejo kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "só queria entender o ponto dela, juro que não quis ofender",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a gente tava brincando e o povo já levou pro pessoal 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mês do amor pra quem se eu tô no celibato??",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Que comparação idiota da porra tudo por likes",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vc tá amaldiçoando o casamento da Amanda? É isso mesmo???",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "falta só ela responder minha DM",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vai mamar ou pedir bença?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Alguém explica o conceito da maçã em Paraíso e Cam girl! 🤔",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Seu cheiro ficou na minha cama, por isso eu te peço pra voltar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu gosto de flores, romances e amores gata 👅",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nenhum vc é casada e mãe de família",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nossa te odeio por ter me feito ver isso",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu só queria um beijo seu na boca",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu só quero você pra mim",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cara, esse patch novo arrumou finalmente o hitbox da sniper, agora tá justo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Alguém sabe se o servidor BR do Valorant ainda tá com lag hoje?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O jogo ficou bem mais fluido depois da atualização, parabéns pra devs!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essa skin lendária tá linda demais, finalmente uma que vale as moedas.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mano, o boss final do Elden Ring é muito apelão, morri 12 vezes já kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Alguém quer fechar squad pra ranqueada agora?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O sistema de matchmaking tá completamente quebrado, tô caindo com uns caras nível 200.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Achei o novo mapa bem balanceado, tem espaço pra todo tipo de estilo de jogo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Joguei a noite toda e ainda não dropei o item lendário, o RNG desse jogo me odeia.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O servidor travou no meio da partida decisiva, perdi todos os pontos.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Alguém testou o novo modo de jogo? Achei divertido, lembra muito o CS 1.6.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Finalmente corrigiram o bug da mira que ficava descalibrada no controle.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A trilha sonora desse jogo é absurda, cada fase tem uma vibe diferente.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vocês viram o trailer do novo Assassin’s Creed? Tá bonito demais!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A comunidade tá bem mais tranquila ultimamente, bom ver o pessoal colaborando.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A dublagem em português ficou ótima, muito melhor que a do último jogo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ganhei minha primeira partida solo, que sensação incrível!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acho que deviam remover esse perk, tá desbalanceando o PvP.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu gosto de jogar suporte, mas o pessoal precisa aprender a dar call direito.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não entendo como ainda tem gente reclamando do gráfico, tá lindo no ultra.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essa atualização trouxe umas mecânicas novas interessantes, mas o balanceamento ficou meio estranho.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tô viciado nesse jogo, toda hora falo que vou jogar uma e fico mais três.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O modo cooperativo ficou sensacional, joguei com meus amigos e foi muito divertido.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Parece que os devs finalmente ouviram a comunidade, o meta tá bem mais equilibrado.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Alguém aí tem dica pra passar da terceira fase? Não consigo de jeito nenhum.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mano, esse jogo é uma desgraça, toda atualização eles quebram mais coisa do que arrumam.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O servidor caiu de novo, parabéns pros devs, conseguiram errar até nisso.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A comunidade desse jogo é insuportável às vezes, mas eu continuo jogando mesmo assim kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pior que o cara joga mal pra caramba e ainda vem dar lição de moral no chat.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se esse matchmaking fosse uma pessoa, eu já teria processado por tortura psicológica.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Joguei três partidas seguidas e todas travaram no final, tô quase desistindo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Os caras pedem pra não ragear, mas olha o que o jogo faz comigo!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem hora que dá vontade de tacar o controle na parede, mas eu amo esse jogo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O cara tá de hack e ainda vem me zoar no chat, é muita audácia kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Sério, a IA desse jogo devia pedir desculpas pra quem ainda joga.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essas animações novas ficaram meio esquisitas, parece beta ainda.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quem foi o gênio que achou que colocar lootbox de novo era uma boa ideia?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O narrador é engraçado, mas às vezes parece que ele tá me zoando pessoalmente kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tô jogando isso desde o lançamento e até hoje não aprendi a mirar direito.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O jogo me pune por existir, eu só queria me divertir um pouco.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pior que o time inimigo tá jogando direitinho, tenho que respeitar.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não é possível, essa partida tá roteirizada pra eu perder.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cara, adoro esse jogo, mas o suporte técnico parece feito por um estagiário sem café.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O cara me matou com um tiro atravessando parede, é bug ou bruxaria?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A engine desse jogo tá pedindo arrego já, os gráficos não justificam o lag.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Fiz 30 kills e o jogo ainda me colocou no time perdedor, sistema justo demais.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Esses NPCs parecem que têm um plano pra me irritar pessoalmente.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quando o jogo decide travar bem no meio da boss fight, é pra testar minha paciência.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "As vezes acho que o RNG desse jogo tem algo contra mim.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tô começando a achar que os devs jogam em outra realidade paralela.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "As skins estão bonitas, mas cobrar 200 reais é brincadeira né?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nem o Dark Souls me fez passar tanta raiva quanto esse jogo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Esse modo competitivo tá me envelhecendo 5 anos por partida.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pior que o jogo é bugado, mas eu continuo defendendo ele igual um trouxa.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A comunidade é tóxica, mas pelo menos o gameplay continua bom.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mesmo discordando dela, é bom ver mais gente trazendo análise séria pro futebol.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem um jeito diferente de analisar o jogo, mas traz pontos bem interessantes.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Admiro a coragem dela de falar sobre temas polêmicos no futebol, mesmo que eu não concorde com tudo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é uma das poucas mulheres que realmente entende de futebol e consegue passar isso pro público.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Gosto do jeito como ela aborda o futebol, trazendo uma perspectiva diferente e enriquecedora.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem um conhecimento profundo do esporte e consegue transmitir isso de forma clara e objetiva.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mesmo que eu não concorde com todas as opiniões dela, respeito muito o trabalho que faz no jornalismo esportivo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é uma voz importante no futebol feminino e merece ser ouvida e respeitada.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Admiro a paixão dela pelo futebol e a dedicação em trazer conteúdo relevante para os fãs do esporte.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem um olhar crítico sobre o futebol que muitas vezes falta na mídia esportiva tradicional.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Amiga, tu viu que a fulana voltou com o ex? 😭 não durou nem dois meses o término kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu juro que não entendo essa relação deles, é um ciclo sem fim kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela postou stories com ele ontem e fingiu que era coincidência, eu quase gritei 🤡",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga ela jura que ninguém percebe, mas a legenda entregou tudo 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu até entendo, coração burro faz a gente passar cada papelão 😩",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não julgo, se o cara me mandasse um 'oi sumida' eu talvez caísse também kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pior que eles combinam, mas juntos é sempre caos kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela tava tão bem sozinha, aí volta pra mesma confusão 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga, lembra quando ela dizia que nunca mais ia falar com ele? pois é 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o mais engraçado é ela postando frase de amor como se nada tivesse acontecido kkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "alguém precisa tirar o celular dela quando ela tá com saudade kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não vou mentir, amo acompanhar o drama, parece novela kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela fala que superou, mas o spotify dela tá gritando o contrário 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga, e aquele tweet apagado dela de madrugada? 👀",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela fala que tá de boa mas vive stalkeando ele kkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ai eu amo quando tem treta de casal no twitter, o entretenimento do dia",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tenho certeza que ela só postou aquilo pra provocar ele kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o ex dela comentou o tweet e apagou logo depois, socorro",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga eu avisei que esse homem ia voltar pra confundir ela de novo 😭",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela falando de amor próprio mas curtindo as fotos do ex, coerência passou longe",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "amiga tu viu as fotos novas daquela modelo? o corpo dela parece de mentira kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não sei se é filtro ou genética, mas tá perfeita demais",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "gente, ela mudou o treino ou é outra iluminação mesmo?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vi no insta dela o vídeo dos bastidores e ela é super simpática também",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "achei engraçado o povo falando que ela vive de estética, como se não fosse o trabalho dela",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela é bonita, mas o que mais gosto é o carisma, parece gente boa real",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "me surpreende como ela lida bem com os comentários ruins, sempre responde com classe",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "larga de ser burra, ela não quis dizer que todas são assim, só tava falando da experiência dela",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu acho que ela só tá tentando alertar as pessoas, não atacar ninguém",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela sempre traz pontos interessantes, mesmo que a forma seja meio polêmica",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não vejo problema em alguém compartilhar sua experiência pessoal, faz parte do debate",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "acho que tão exagerando na reação, ela não falou nada ofensivo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela tem todo direito de expressar sua opinião, mesmo que nem todo mundo concorde",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu respeito o ponto de vista dela, cada um tem sua vivência",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não acho que ela quis generalizar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "@grok por que essa obra está na Argentina. Explique para iletrados a importância da obra para o Modernosmo Brasileiro.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela linda uma obra da arte de Deus, já o quadro deixa uma porcaria.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se eu tivesse 14 anos, ia imprimir isso pra colar no quarto, aqui tu canetou",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "como é que tá os Parentes dela que não quiseram emprestar dinheiro pra ela e a mãe viajarem no primeiro campeonato de skate, hein?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela ficou famosa só porque divulgou cassino, se não ela nem tava ai",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela ficou famosa só porque mostra o corpo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A Patrícia apresenta uma característica comum do senso crítico atual: questiona se a piada do Léo Lins foi racista por amizade, se a direita é realmente ignorante, e se os debates contemporâneos são apenas um circo. Mesmo sem acompanhar o canal, percebe-se que suas dúvidas refletem a de muitas pessoas, o que pode contribuir para divulgar melhor ideias progressistas.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela não sabe nada de política",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mulher não sabe nada de política",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Véi foi duro pra ficar nessa pose, me sinto velha e toda dura kkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Por isso sou a favor do retorno dos manicômios.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mulher no volante, perigo constante.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela só conseguiu o emprego porque é bonita.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "bonita com literalmente QUALQUER tipo de cabelo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu não queria ser atriz neste momento da história nacional",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela nem é lá essas coisas",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "po eu duvido mto, nada contra ela, mas po o NYJAH HUSTON tem uma fortuna estimada de 10 milhões de dólares e o cara é campeão da porra toda a 10 anos, é patrocinado pela nike e monster a vida toda, quase impossivel isso ai da Rayssa ser vdd",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Como assim ela JÁ TEM 17 anos? Quanto tempo dormi?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Você ta é falando merda, respeita a mina!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Muitos homens skatistas na idade dela não têm todo esse dinheiro. Triste, vamos falar de igualdade.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "n criticando ela, mas porra capitalismo é foda kkkk n aguento ver alguém com tanto e uma galera se matando de trabalhar p ter o q comer",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Literalmente ninguém se importa com ela",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Literalmente ninguém se importa com esse tipinho de muié",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "caralho no minimo ela deve estar batendo até na mãe nos campeonatos que ela ganha e estar fazendo mta publi pq pra um atleta que n seja do futebol ter essa fortuna é dificil dms",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tudo isso pq ela aprendeu a andar de skate com roupa de fada mds deve ser uma história mt legal de contar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é nova Melody não sai dos 17",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem a energia de caminhoneira kkkkk deve tá no off ainda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Tem skatista homem andando 10 vezes mais que essa fraca e com nem 1% disso",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Merecido! Ela é uma atleta de ponta no Mundo, e muita boa no que faz. Além da baita humildade natural, que tem essa moça. Que ela consiga dobrar, ou triplicar ainda mais seus ganhos. Com o esporte, que ela pratica!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "gente odeio rivalidade feminina mas temos que admitir que rayssa leal já é maior que a anne frank",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "não queria ser pai dela",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cuidado raíssa a inveja destrói...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o jeito que eu era obcecada nessa menina era surreal",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mulheres tem que parar de se acostumar com isso, e reivindicar mais espaços!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a grta alem de estranha feia ainda e invejosa pqp morre diabo",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ser invejosa as vzs é tão bom, pq eu vi uma moça aq no tt com uma fonte do nosferatu no nome, aí eu cobicei pra mim e agr meu letterbox tá lindo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Enquanto a Miss Palestina exibe sua beleza, a gata seca invejosa do estado de ocupação israelense passa mal com sua feiúra. Não tem como passar batido o olhar de serpente dela sobre Nadeen Ayoub, Palestina ❤️🇵🇸",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "como eu sou invejosa e vi minha diva @nanaisstarving fazendo, vou começar amanhã",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa vadia me faz rir com as piadas dela kkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "muié na net",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "cuié kkkkkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A Zendaya tá invejosa porque o mundo todo está apaixonado pela branca 0pressor4 kkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "acho que nunca mais vo encontrar alguém como minha ex",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "sonhei com a minha ex e agora tô meio depressiva e triste",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "com essas mulheres só resolve raspando a cabeça",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "toda merda q eu faço hj em dia é culpa da minha ex q acabou com minha vida",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "comi minha ex semana passada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "minha professora me indicou ouvir rosalía pra treinar espanhol (e porque é a cantora favorita dela, então também usa nas aulas) e foi ótimo porque agora ela lança um álbum cantando em 13 idiomas!!!!!!! e ainda descobri o babado da história sobre o ex 🙏🏼",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E essa dupla safada na premier league?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "será que é normal eu ser tão safada assim",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "essa mulher é muito safada",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nao me falta mais, estou bem calminha",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "é normal eu nao entender porra nenhuma desse post?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E pq ela fala em parcelas? Tem preguiça até de digitar uma frase inteira",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "mano sla ela.. deve ter se achado uma genia falano isso td serio.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "SIM, EU FAÇO PARTE DO MOVIMENTO ANTI-MULHER TATUADA",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Claro que a tatuagem define o caráter da mulher.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vocês têm uma dificuldade imensa de gostar de mulher.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Olha cara, pode ser que eu seja ficando velho, e estou (49) mesmo assim acho esse negócio de postar coisa contra mulher A ou B um negócio meio suspeito, rapaz, deixa as moças, escolha a sua sem ser notado, esse é o segredo do homem de sucesso, vai por mim.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tinha que ser 🏳️‍🌈",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "viadinho",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "eu amo ela, principalmente quando ela aparece só de biquini",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Obrigada senhor por uma mãe extremamente religiosa 🙏🏼\n\nNão tenho nenhuma tatuagem e tenho pavor de homem tatuado",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "pode falar que é gay, ninguém vai te julgar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se tu n gosta ou tem nojinho é só n ir atrás de mulher tatuada. Cada uma, tem homem que se esforça pra gostar de mulher em, pqp",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Para mim tatuagem viola o corpo, pode acarretar doenças, atrapalha na detecção de cancer de pele, sem contar que é algo de gosto totalmente pessoal e com data de validade. Cada um faz o que quer as consequências cada um que arque com elas.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu sou da tropa que não gosta das tatuadas",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o que te impede de ficar com uma negra ?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "nao gosto de mulher que usa boné",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "novo curso: milionário fingindo que ta comendo mina com foto gerada por IA",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A cara dela coitada",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é boa no fio terra né!?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "uma esposa que o raiam ja comeu kkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Falei que a minha esposa faz biomedicina e o pessoal do serviço começou a dar risada da minha cara no meu primeiro dia de trampo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela não consegue ficar sem postar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Claro que pode ter um personal. Mas, postar o cara fazendo massagem é sacanagem. Tem que ter noção, né?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela escolheu esse personal por um critério bem específico e sabemos qual: Esse é o tipo de homem que ela gosta de sentar porém ela nunca assumiria por não ter fama e renda.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Porque nunca vemos Homem famoso com personal feminina?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Rapaz não tem para onde correr, na rua tem mendigo, não igrejas tem o Padre e o Pastor; o negócio é entregar na mão de Deus, e não se apegar a mulher em um nível extremo, assim você sofre menos!!!!!!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Não sendo a minha esposa está tudo bem",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "As mulheres são tão capazes e muitas vezes até melhores que os homens em várias profissões. Por que ela não contratou uma mulher personal?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essa mulher vai fazer a gente perder a copa!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Entao é assim que as meninas ricas se divertem kkkkkkkkkkk",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Claro que pode. Escolha dela. Qual a diferença de um homem fazer ou uma mulher fazer? As intenções podem estar em qq gênero.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pare com a essa brincadeira gostosa",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ele tá meio que sendo o carnívoro vendo a carne e não podendo comer",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "por que não uma personal mulher ?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "o pior não é ter personal homem e sim usar um shortinho e ainda deitar pro cara ficar olhando",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essa mulher é uma genia! Engajamento foda",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Daqui a pouco o Vini tá falando: fui corneado só pq eu sou preto, estou sendo oprimido.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cada homem tem a mulher que merece.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Que foda ela!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Claro que não KKKKKKK",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Estas coisas que ela esta fazendo e tudo para gerar polemica, engajamento, ela quer isto mesmo, e deste jeito que mais pessoas vao conhecer e adicionar ela, ela esta apenas usando o negueba para visibilidade internacional.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Parece q vcs não sabem q é exatamente isso q ela quer: ser falada. Ela tá pouco se fudendo se tão falando mal ou bem, o importante é tá na boca do povo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O dinheiro é dela, se ela quiser contrato uma galinha com personal ela contrato, povo chato da porr4",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se ela quiser trair não vai ser colocar uma personal mulher que vai impedir.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A mulher pode fazer o que ela quiser! Eu tbm posso me tornar solteiro quando eu quiser! A escolha é dela, ter PT homem ou ter marido?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "kkkkkkkkkkkkkk Fãs de Vini Jr., mano que porra vcs querem se meter na vida dos outros, vão procura o que fazer, deixa o cara se resolver, é da conta de vcs ,seus merdas entrar na vida dos outros, haa é sim pq é fã, vai se fã do seu pai e da sua mãe, que mané adorar os outros.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ei ceis lembram daquela moça que cortou o cabelo no casamento aí o noivo viu e soltou o \"MEEEENNTCHIIIRAAANNN\"? então, deu red o casamento já",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E ela é o maior exemplo, criada sob as mesmas condições dos dois irmãos, os dois irmãos estão embaixo da vala pelo tráfico e ela está trabalhando de enfermeira o qualquer coisa, escolhas.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mostrem toda a sua indignação por essas vidas aqui tbm.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "agora me fala se tem jeito um país desse!? Pessoa nem assiste a caralha do video e quer lacrar",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Cheio de mulher",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Engraçado é que a personagem que ela criou é magrinha.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mas não vai assediar ela não, hein",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "vai passar o carro!! quando quando?? só pela postura dela ontem na cop30 (pura emoção e ad hominem) vai amassar!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "No vídeo ela diz que primeiro ele tem que aprender a falar com mulher",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é rasa no que fala!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela teu um poder sobrenatural de causar vergonha alheia. Bizarro. Mulher nessa idade pagando de descolada e muito constrangedor",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mlk, eu fico me perguntando como o cara tem coragem de engravidar uma mulher dessa. Pqp kkkkkkkkk",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Agora vai ter que fazer o dobro de programa aqui em Portugal pra conseguir pagar",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Fico boba com o tempo que essa senhora tem 🤦🏾‍♀️",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Luana Piovani rainha linda, Neymerda fedorento feio",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quando essa mulher, vai de fato, se tornar uma mulher invisível novamente?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem um ar de ser amargurada",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "tudo ela quer sair por cima, não aceita estar errada",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "É sério que existe alguém preocupado(a) por ela ter perdido um processo por ser intrometida na vida alheia? Se for verdade, quem tá precisando de um bom processo são os “preocupados”! Aff…",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Porra, amo essa mulher! Luana está com certeza na minha lista de top 10 mulheres mais bacanas e bonitas do Braza. quem nunca  let's go. \n\n@neymarjr\n não é aquele influencer qué faz de conta que joga futebol? Nem sei oq rolou, mas com este é chilique garantido. ",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Como é ridícula essa mulherzinha!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a desgraça tem 50 anos e o cabelinho rosa",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "que desgraça, pior que ela tem razão",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Avisa a Luana q se tiver nova condenação não vai poder fazer acordo com o MP",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Coitada!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Essa mal comida só serve pra encher o saco.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ta todo mundo preocupado com ela ?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Quem se preocupa com ela ?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Que mulher maravilhosa!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela é muito chata mesmo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Que mulherzinha nojenta! Não para de dar vexame.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A mulher é condenada por injúria e ainda faz video pra dizer que tá tudo bem...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ninguem ta preocupado com voce nao cracuda",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nenhuma mulher votou a favor de Israel",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "O homem travestido de mulher é demoníaco demais. Que asco!",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela disse feministas…",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mulheres foram as primeiras a serem liberadas, sempre carregando esse fardo...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "É verdade que os terroristas do Hamas não liberaram nenhuma mulher refém nesta guerra?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mas as mulheres foram libertadas nas primeiras negociações",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Erika Hilton deveria ir prestar apoio presencial na Palestina, para ver de perto como funcionam as coisas por lá",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Todas mulheres já haviam sido libertadas, essa propaganda israelense só engana burro.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se ela quer mudar um pouco a rotina, é só planejar com o marido, mas deixa eu adivinhar: nessa história ela quer trair o cara né?",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Eu tinha uma ex que a vida soava assim ao lado dela, era um inferno. Hoje tenho uma namorada que a gente sempre tá saindo, conversando coisas engraçadas, visitando amigos, fazendo coisas legais em casa, eu preparo uns petiscos, ela traz um vinho... Dois anos juntos",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela só quer dar uma variada na rotina, normal.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela quer mais o que?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Sim a vida não é uma injeção constante de endorfina. Existem altos e baixos, existem momentos bons e ruins, existe uma rotina INEVITÁVEL e entender isso é parte do que te separa de uma criança e te torna uma ADULTA, o problema é que hoje temos uma geração de adolescentes de 40 anos...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Se vc está com uma pessoa que não te faz achar a vida incrível, mesmo quando ela está uma loucura, a culpa é 100% sua. Tenha coragem, tenha ao menos dignidade na vida!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "As pessoas acham que o parceiro tem que ser animador de festa. Tá entediado faz alguma coisa a respeito uai. Que não envolva a desculpa de traição.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acordou todos os dias na casa que conquistei, ao lado da mulher que eu amo, deixo café pra ela feito e vou trabalhar. Isso é viver.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E pq ela se manteve fiel o tempo todo enquanto o marido teve 15 amantes?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Geraçãozinha de merda criada pra achar que a vida é um videogame que quando vc enjoa é só trocar a fita",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Preguiça: ela não faz algo para sair da rotina, então culpa todos a sua volta",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Engraçado como a mídia sempre tenta colocar casamento como se fosse uma droga ou nunca desse certo, brainwashing total, quão bom é ser casado e ter um emprego",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Pediram empoderamento, ganharam escravidão...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela quer ser um super heroi?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela tem trabalho? Privilegiada",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Avisa ela que a vida é só isso mesmo!",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Nunca satisfeitas. Incrível 🤣\n\nUm cafofo um cachorro e cerveja é tudo que precisa pra manter um homem feliz por décadas.",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Todo dia ela faz tudo sempre igual. Hino",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela quer um pouco de emoção na vida dela, coitada.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Acham que a vida é igual os influencer do Instagram por isso a tendência é essa aí msm se compara o tempo todo e no final desenvolver depressão.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Sabe o que é foda? Ela reclama da rotina e não faz nada para mudar a mesma… sempre esperando que os outros façam. Isso é puro narcisismo.",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Plagiaram a ex‑do Kaká?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Puta merda nem escondem mais que querem deturpar a cabeça das pessoas",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "E o marido dela saindo pra trabalhar todo dia pra sustentar a casa? Aguentar trânsito, abuso do chefe?",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A vida é feita no tédio e no ócio, quem procura emoção todo o tempo, acaba se ferrando",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Parece aquelas pessoas que reclamam do próprio casamento, mas depois tentam convencer alguém mais novo a viver uma vida assim",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Vocês falando que a Virgínia está forçando gostar de futebol agora que está com o Vini, sendo que ela até tentou ser musa do Mineirão rs",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Época que a Virgínia era linda naturalmente",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "a mulher mudou a cara e o corpo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "ela ta muito mais bonita agora",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "A diva sempre entregando beleza, misericórdia",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela veio com skin Premium gold de fabrica e quis tentar melhorar com o tempo, mas a reforma e a tunagem chegaram num ponto de dar saudade ao estado original",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Isso ai nunca vai poder dizer, ela smp gostou de futebol, em GV tinha um barzinho chamado Brudder smp que tinha classico Cruzeiro e Atletico eu ia e ela sempre tava tbm vendo jogo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ninguém pode dizer que ela não tentou, fez de tudo",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Com todo respeito, ela era uma gostosa do caralho antes dos procedimentos e das bombas, hoje em dia ela é só mais uma siliconada cheio de procedimento e acima do padrão",
+    "output": "misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Onde e que vcs arrumam isso gnt kkkkkkkkk Eu nunca nem soube da existência dessa mulher",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Ela precisa saber se posicionar...",
+    "output": "nao_misogino"
+  },
+  {
+    "instruction": "Classifique o texto quanto à presença de misoginia.",
+    "input": "Mulher... você estava totalmente certa!",
+    "output": "nao_misogino"
+  }
+]
